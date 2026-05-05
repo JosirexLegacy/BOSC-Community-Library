@@ -1,5 +1,9 @@
 \#  BOSC Community Library
 
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub issues](https://img.shields.io/github/issues/JosirexLegacy/BOSC-Community-Library)
+
 
 
 > A community-driven, open-source collection of resources, guides, and tools built by contributors, for contributors.
@@ -30,17 +34,17 @@ This is not just a repository. It is a learning environment where real collabora
 
 BOSC-Community-Library/
 
-│── README.md               ← You are here
+ README.md               ← You are here
 
-│── CODE\_OF\_CONDUCT.md      ← Community standards
+ CODE\_OF\_CONDUCT.md      ← Community standards
 
-│── CONTRIBUTING.md         ← How to contribute
+ CONTRIBUTING.md         ← How to contribute
 
-│── /docs                   ← Guides and documentation
+ /docs                   ← Guides and documentation
 
-│── /resources              ← Curated tools and links
+ /resources              ← Curated tools and links
 
-└── /.github                ← Issue \& PR templates
+ /.github                ← Issue \& PR templates
 
 \---
 
