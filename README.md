@@ -5,114 +5,85 @@
 ![GitHub issues](https://img.shields.io/github/issues/JosirexLegacy/BOSC-Community-Library)
 
 
+This is a community-maintained library of academic resources built by and for
+students particularly those studying in environments where good learning
+materials are hard to find, expensive, or scattered across the internet
+with no clear guidance on where to start.
 
-> A community-driven, open-source collection of resources, guides, and tools built by contributors, for contributors.
+We built this because we kept asking the same question: *"Where do I actually
+go to learn this?"* and getting unhelpful answers. This repository is our
+attempt to fix that, one well-organised resource at a time.
 
+---
 
+## Who Is This For?
 
-\---
+- University and college students in Uganda and across East Africa
+- Self-taught learners looking for structured, free resources
+- Anyone who wants to contribute to a growing academic knowledge base
+- Open source contributors looking for a beginner-friendly project to join
 
+You don't need to be an expert to contribute. You just need to know something
+useful and be willing to share it clearly.
 
+---
 
-\##  About This Project
-
-
-
-The \*\*BOSC Community Library\*\* is a collaborative repository maintained by members of the BOSC (Building Open Source Community) initiative. Our goal is to create a freely accessible library of curated resources, documentation, and practical tools that help developers especially beginners contribute to open-source software with confidence.
-
-
-
-This is not just a repository. It is a learning environment where real collaboration happens.
-
-
-
-\---
-
-
-
-\##  Repository Structure
-
+## What's Inside
 BOSC-Community-Library/
+│
+ resources/
+│   ├── computer-science/     ← Data structures, networking, OS, and more
+│   ├── business/             ← Entrepreneurship, financial literacy
+│   └── general/              ← Academic writing, study techniques
+│
+ docs/                     ← Project documentation and guides
+.github/                  ← Issue and PR templates
+│
+ CONTRIBUTING.md           ← How to add your own resources
+ CODE_OF_CONDUCT.md        ← Community standards
+ LICENSE                   ← MIT License
+---
 
- README.md               ← You are here
+## How to Use This Library
 
- CODE\_OF\_CONDUCT.md      ← Community standards
+Just browse. Every folder has markdown files on specific topics.
+Each file has a short explanation and links to the best free resources we've found.
 
- CONTRIBUTING.md         ← How to contribute
+No account needed. No sign-up. Just open, read, and learn.
 
- /docs                   ← Guides and documentation
+---
 
- /resources              ← Curated tools and links
+## Want to Contribute?
 
- /.github                ← Issue \& PR templates
+This library grows because people like you add to it.
 
-\---
+If you know a good resource, found a broken link, or want to write a guide
+on a topic that isn't covered yet we want your contribution.
 
+Read **[CONTRIBUTING.md](CONTRIBUTING.md)** to get started. It walks you through
+the full process from forking the repository to submitting a pull request.
+It's beginner-friendly if you've never contributed to open source before,
+this is a good place to start.
 
+---
 
-\##  Getting Started
+## Community Standards
 
+We take our community seriously. Please read our
+**[Code of Conduct](CODE_OF_CONDUCT.md)** before participating.
+We are committed to keeping this a respectful, inclusive space.
 
+---
 
-1\. Read our \[Contributing Guide](CONTRIBUTING.md) before making any changes
+## License
 
-2\. Check open \[Issues](../../issues) to find something to work on
+This project is licensed under the **MIT License**.
+See [LICENSE](LICENSE) for details.
 
-3\. Fork the repository, make your changes, and submit a Pull Request
+---
 
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub issues](https://img.shields.io/github/issues/JosirexLegacy/BOSC-Community-Library)
 
-
-\---
-
-
-
-\##  Contributing
-
-
-
-We welcome contributions of all kinds:
-
-\-  Adding resources or guides
-
-\-  Reporting bugs or broken links
-
-\-  Suggesting improvements
-
-\-  Reviewing pull requests
-
-
-
-Please read \[CONTRIBUTING.md](CONTRIBUTING.md) and \[CODE\_OF\_CONDUCT.md](CODE\_OF\_CONDUCT.md) before contributing.
-
-
-
-\---
-
-
-
-\##  License
-
-
-
-This project is open-source and available under the \[MIT License](LICENSE).
-
-
-
-\---
-
-
-
-\##  Contributors
-
-
-
-Thanks to everyone who has contributed to making this library better. You are what makes open source work.
-
-
-
-\---
-
-
-
-\*Maintained with love by the BOSC Community\*
-
+*Built with care by the BOSC Community.*
