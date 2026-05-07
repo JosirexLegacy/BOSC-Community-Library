@@ -108,5 +108,17 @@ Don't rush here — master the above first.
 
 
 
-\*Contributed by the BOSC Community. Last reviewed: 2025.\*
+\---
+
+
+
+\*\*Metadata\*\*
+
+\- Contributor: BOSC Community
+
+\- Last Reviewed: May 2025
+
+\- Difficulty: Beginner to Intermediate
+
+\- Category: Computer Science / Data Structures
 

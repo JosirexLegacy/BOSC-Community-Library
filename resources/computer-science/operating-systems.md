@@ -106,7 +106,9 @@ OS concepts running in real time.
 
 \---
 
-
-
-\*Contributed by the BOSC Community. Last reviewed: 2025.\*
+**Metadata**
+- Contributor: BOSC Community
+- Last Reviewed: May 2025
+- Difficulty: Intermediate
+- Category: Computer Science / Operating Systems
 

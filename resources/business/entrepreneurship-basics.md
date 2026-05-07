@@ -100,5 +100,15 @@ Learn to build lean, test early, and reinvest before seeking outside funding.
 
 
 
-\*Contributed by the BOSC Community. Last reviewed: 2025.\*
+
+
+\*\*Metadata\*\*
+
+\- Contributor: BOSC Community
+
+\- Last Reviewed: May 2025
+
+\- Difficulty: Beginner
+
+\- Category: Business / Entrepreneurship
 

@@ -98,5 +98,13 @@ Money saved early grows faster than money saved later — by a significant margi
 
 
 
-\*Contributed by the BOSC Community. Last reviewed: 2025.\*
+\*\*Metadata\*\*
+
+\- Contributor: BOSC Community
+
+\- Last Reviewed: May 2025
+
+\- Difficulty: Beginner
+
+\- Category: Business / Finance
 
