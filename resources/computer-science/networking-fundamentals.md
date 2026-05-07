@@ -96,5 +96,15 @@ Port 80 = HTTP. Port 443 = HTTPS. Port 22 = SSH.
 
 
 
-\*Contributed by the BOSC Community. Last reviewed: 2025.\*
+
+
+\*\*Metadata\*\*
+
+\- Contributor: BOSC Community
+
+\- Last Reviewed: May 2025
+
+\- Difficulty: Beginner to Intermediate
+
+\- Category: Computer Science / Networking
 
