@@ -46,11 +46,19 @@ BOSC-Community-Library/
 
 ## How to Use This Library
 
-Just browse. Every folder has markdown files on specific topics.
-Each file has a short explanation and links to the best free resources we've found.
+The fastest way to get started is the **[Resource Hub](RESOURCE_HUB.md)**.
+
+It lists everything available in one place organized by subject, with
+difficulty levels and descriptions for each resource, so you know exactly
+what you're opening before you open it.
+
+If you prefer to browse directly, the folder structure is:
+
+- `/resources/computer-science` — data structures, OS, networking
+- `/resources/business` — entrepreneurship, financial literacy
+- `/resources/general` — academic writing, study techniques
 
 No account needed. No sign-up. Just open, read, and learn.
-
 ---
 
 ## Want to Contribute?
