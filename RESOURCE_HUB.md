@@ -18,6 +18,28 @@ to see where help is needed most.
 
 
 
+\##  Not Sure Where to Start?
+
+
+
+If you're new to the library or overwhelmed by the options, start here instead:
+
+
+
+\- \*\*\[Beginner Learning Path](docs/learning-paths/beginner-path.md)\*\* 
+
+&#x20; tells you exactly what to read first, second, and third, by subject area
+
+\- \*\*\[Low-Bandwidth Study Guide](docs/learning-paths/low-bandwidth-guide.md)\*\* 
+
+&#x20; how to use this library when your internet is slow or unreliable
+
+
+
+\---
+
+
+
 \---
 
 
