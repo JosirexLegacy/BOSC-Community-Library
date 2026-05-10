@@ -2,11 +2,9 @@
 
 
 
-This document records the development history and key milestones of the
+This document records the development evidence and milestone history for
 
-BOSC Community Library project, submitted as a final exam project for
-
-OPEN SOURCE SOFTWARE at Bugema University.
+the BOSC Community Library, submitted as a final exam project.
 
 
 
@@ -14,7 +12,9 @@ OPEN SOURCE SOFTWARE at Bugema University.
 
 
 
-\## Project Overview
+\## Project Identity
+
+
 
 
 
@@ -32,85 +32,71 @@ OPEN SOURCE SOFTWARE at Bugema University.
 
 | Course | BSCT 3221 Open Source Software |
 
+| Institution | BUGEMA UNIVERSITY |
+
 | Submission Date | 12/5/2026 |
 
 
 
 \---
 
-
-
-\## Development Timeline
-
-
-
-\### Day 1 — Repository Foundation
-
-\- Created public GitHub repository
-
-\- Established professional folder structure
-
-\- Wrote README, CODE\_OF\_CONDUCT, CONTRIBUTING
-
-\- Added .github issue and PR templates
-
-\- Made 6 incremental commits
+\## Evidence Summary
 
 
 
-\### Day 2 — Content and Legal Foundation
-
-\- Added 7 academic resource files across 3 subject folders
-
-\- Rewrote README with human, purposeful tone
-
-\- Added MIT License with rationale
-
-\- Started LEGAL\_ANALYSIS.md
-
-\- Made 4 incremental commits
+\### 1. Git Activity
 
 
 
-\### Day 3 — Issue Tracking and Bug Fixes
+The repository contains 25+ commits across a 6-day development period.
 
-\- Opened 2 realistic functional bug issues (#1, #2)
-
-\- Created dedicated branches for each fix
-
-\- Fixed CONTRIBUTING.md anchor navigation
-
-\- Added resource folder index files and standardized metadata
-
-\- Opened, reviewed, and merged 2 PRs with peer comments
+Each commit represents a deliberate, incremental change not a bulk upload.
 
 
 
-\### Day 4 — Feature Development
+\*\*How to verify:\*\*
 
-\- Opened 2 feature issues 
+\- Go to the repository on GitHub
 
-\- Built RESOURCE\_HUB.md central navigation system
+\- Click the commit count near the top of the file browser
 
-\- Built docs/learning-paths/ with beginner path and low-bandwidth guide
+\- The full commit history is visible with messages, dates, and files changed
 
-\- Opened, reviewed, and merged 2 feature PRs
+\---
 
 
 
-\### Day 5 — Refactoring and Professionalization
+\### 2. Issue Tracking Evidence
 
-\- Opened refactoring issue (#9)
 
-\- Standardized markdown formatting across all files
 
-\- Normalized metadata footers
+Five issues were opened and closed during development:
 
-\- Improved all documentation files
 
-\- Professionalized README with roadmap and vision
 
-\- Prepared submission documentation
+| Issue | Title | Type | Status |
+
+|-------|-------|------|--------|
+
+| #1 | CONTRIBUTING.md TOC anchor links broken | Bug fix | Closed |
+
+| #2 | Resource folders missing index files | Bug fix | Closed |
+
+| #3 | Add central resource discovery hub | Feature | Closed |
+
+| #4 | Add beginner learning paths | Feature | Closed |
+
+| #5 | Markdown consistency refactoring | Refactor | Closed |
+
+
+
+\*\*How to verify:\*\*
+
+\- Go to Issues tab → select "Closed"
+
+\- All 5 issues are visible with their linked PRs
+
+
 
 
 
@@ -118,7 +104,81 @@ OPEN SOURCE SOFTWARE at Bugema University.
 
 
 
-\## Evidence of OSS Practices
+\### 3. Pull Request Evidence
+
+
+
+Five pull requests were opened, reviewed, and merged one for each issue.
+
+
+
+\*\*How to verify:\*\*
+
+\- Go to Pull Requests tab → select "Closed"
+
+\- All 5 PRs visible with merge status
+
+
+
+\---
+
+
+
+\### 4. Repository Structure Evidence
+
+
+
+\---
+
+
+
+\### 5. Contribution Graph
+
+
+
+GitHub generates an automatic contribution graph.
+
+
+
+\*\*How to capture:\*\*
+
+\- Go to your GitHub profile page
+
+\- Scroll down to the contribution activity graph
+
+
+
+\---
+
+
+
+\### 6. Development Timeline Summary
+
+
+
+| Day | Focus | Key Deliverables |
+
+|-----|-------|-----------------|
+
+| Day 1 | Foundation | Repository setup, folder structure, core documentation, 6 commits |
+
+| Day 2 | Content + Legal | 7 resource files, MIT license, LEGAL\_ANALYSIS start, 4 commits |
+
+| Day 3 | Issue workflow | 2 bugs fixed, 2 PRs merged, issue-branch-PR cycle demonstrated |
+
+| Day 4 | Feature development | RESOURCE\_HUB, learning paths, accessibility guide, 2 feature PRs |
+
+| Day 5 | Refactoring | Consistency pass, README upgrade, contributor docs improved |
+
+| Day 6 | Strategy + Submission | Legal analysis complete, sustainability strategy, government proposal |
+
+
+
+\---
+
+
+
+\## OSS Practice Checklist
 
 
 
@@ -126,49 +186,35 @@ OPEN SOURCE SOFTWARE at Bugema University.
 
 |----------|----------|
 
-| Issue tracking | 5+ issues opened with structured descriptions |
+| Public repository | ✅ Visible at GitHub URL above |
 
-| Branch workflow | Every fix and feature on its own branch |
+| Professional README | ✅ With vision, roadmap, accessibility mission |
 
-| Pull requests | All merges done via PR, not direct push |
+| Issue tracking | ✅ 5 issues with structured descriptions |
 
-| Peer review | Review comments on every PR |
+| Branch workflow | ✅ Every fix and feature on dedicated branch |
 
-| Incremental commits | 20+ commits across 5 days |
+| Pull requests | ✅ All merges via PR, no direct push to main |
 
-| Closes syntax | Issues closed via commit/PR messages |
+| Peer review comments | ✅ Minimum one review comment per PR |
 
-| Documentation | README, CONTRIBUTING, COC, legal analysis |
+| Incremental commits | ✅ 25+ commits across 6 days |
 
-| Accessibility | Low-bandwidth guide, offline-capable content |
+| Closes syntax | ✅ Issues closed via PR/commit references |
 
-| License | MIT License with documented rationale |
+| OSS License | ✅ MIT License with documented rationale |
+
+| Legal analysis | ✅ LEGAL\_ANALYSIS.md |
+
+| Sustainability strategy | ✅ SUSTAINABILITY.md |
+
+| Contributor documentation | ✅ CONTRIBUTING.md with full workflow |
+
+| Code of conduct | ✅ CODE\_OF\_CONDUCT.md |
+
+| Accessibility focus | ✅ Low-bandwidth guide, offline-capable content |
+
+| Government proposal | ✅ docs/government-adoption-proposal.md |
 
 
-
-\---
-
-
-
-\## Key Files for Review
-
-
-
-| File | Purpose |
-
-|------|---------|
-
-| README.md | Project overview, vision, roadmap |
-
-| RESOURCE\_HUB.md | Central navigation index |
-
-| CONTRIBUTING.md | Contributor workflow guide |
-
-| LEGAL\_ANALYSIS.md | License rationale and analysis |
-
-| docs/learning-paths/ | Accessibility and learning path features |
-
-| resources/ | Core academic content |
-
-| .github/ | Issue and PR templates |
 
