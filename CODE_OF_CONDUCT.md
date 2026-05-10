@@ -86,9 +86,21 @@ This Code of Conduct applies to all project spaces including the repository, iss
 
 
 
-If you experience or witness unacceptable behavior, please report it by opening a confidential issue or contacting the project maintainer directly through GitHub. All reports will be reviewed and investigated promptly and fairly.
+If you experience or witness behavior that violates this Code of Conduct,
+
+please report it by opening a GitHub issue marked \*\*\[Private]\*\* in the title,
+
+or by contacting the maintainer directly through GitHub's messaging feature.
 
 
+
+Reports will be reviewed within 72 hours. All reports are handled confidentially.
+
+The identity of the reporter will not be disclosed without their explicit consent.
+
+
+
+You will receive a response describing the outcome of the review.
 
 \---
 
