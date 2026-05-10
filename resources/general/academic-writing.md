@@ -108,13 +108,11 @@ Most student essays are too long, not too short.
 
 
 
-\*\*Metadata\*\*
+\*\*Contributor:\*\* BOSC Community
 
-\- Contributor: BOSC Community
+\*\*Last Reviewed:\*\* May 2025
 
-\- Last Reviewed: May 2025
+\*\*Difficulty:\*\* Beginner
 
-\- Difficulty: Beginner
-
-\- Category: General / Academic Skills
+\*\*Category:\*\* General — Academic Skills
 

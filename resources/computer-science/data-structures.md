@@ -112,13 +112,13 @@ Don't rush here — master the above first.
 
 
 
-\*\*Metadata\*\*
 
-\- Contributor: BOSC Community
 
-\- Last Reviewed: May 2025
+\*\*Contributor:\*\* BOSC Community
 
-\- Difficulty: Beginner to Intermediate
+\*\*Last Reviewed:\*\* May 2025
 
-\- Category: Computer Science / Data Structures
+\*\*Difficulty:\*\* Beginner to Intermediate
+
+\*\*Category:\*\* Computer Science — Data Structures
 
