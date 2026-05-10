@@ -19,7 +19,7 @@ for students who don't have the luxury of expensive textbooks, stable broadband,
 or well-resourced university libraries.
 
 The long-term vision is a library that covers every major undergraduate subject
-area — built not by a publishing house, but by students who have been through
+area built not by a publishing house, but by students who have been through
 the material and know what actually helps.
 
 ---
@@ -59,7 +59,7 @@ for practical guidance on using this library without reliable internet.
 ## Getting Started
 
 **To find a resource:** Open **[RESOURCE_HUB.md](RESOURCE_HUB.md)**
-— it lists everything in the library with descriptions and difficulty levels.
+ it lists everything in the library with descriptions and difficulty levels.
 
 **New to university or returning after a gap:** Start with the
 **[Beginner Learning Path](docs/learning-paths/beginner-path.md)**.
