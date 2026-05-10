@@ -90,6 +90,22 @@ git checkout -b feature/add-python-resources
 - Follow existing file naming conventions: lowercase, hyphens, no spaces
 - Keep content clear, accurate, and accessible to beginners
 
+### Resource File Standards
+
+Every resource file must follow these conventions:
+
+**File naming:** lowercase, hyphens only, no spaces. (`data-structures.md` ✅, `Data Structures.md` ❌)
+
+**Heading hierarchy:** Start at `##` for main sections. Don't skip levels.
+
+**Metadata footer:** Every resource file must end with this exact block:
+
+**Internal links:** Always use relative paths from your file's location.
+
+**RESOURCE_HUB.md:** If you add a new resource file, you must also add an
+entry to `RESOURCE_HUB.md`. PRs that add resource files without updating
+the hub will be asked to revise before merging.
+
 ---
 
 ## Step 5: Commit Your Changes
