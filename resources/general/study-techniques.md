@@ -88,13 +88,13 @@ They show you how questions are actually asked, not just what content is covered
 
 
 
-\*\*Metadata\*\*
 
-\- Contributor: BOSC Community
 
-\- Last Reviewed: May 2025
+\*\*Contributor:\*\* BOSC Community
 
-\- Difficulty: Beginner
+\*\*Last Reviewed:\*\* May 2025
 
-\- Category: General / Study Skills
+\*\*Difficulty:\*\* Beginner
+
+\*\*Category:\*\* General — Study Skills
 

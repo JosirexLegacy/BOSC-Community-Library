@@ -1,23 +1,32 @@
 # Documentation
 
-This folder contains guides, references, and structured learning materials
-that support contributors and users of the BOSC Community Library.
+This folder contains structured guides and reference material that support
+both users and contributors of the BOSC Community Library.
 
 ---
 
-## Learning Paths
+## Contents
 
-Structured guides for approaching library content effectively.
+### Learning Paths
+Guides for approaching library content in a structured, effective way.
 
-| Guide | Description |
-|-------|-------------|
-| [Beginner Learning Path](learning-paths/beginner-path.md) | Sequenced study guide for CS and business students starting from scratch |
-| [Low-Bandwidth Study Guide](learning-paths/low-bandwidth-guide.md) | How to use this library effectively with slow or intermittent internet |
+| File | Description |
+|------|-------------|
+| [beginner-path.md](learning-paths/beginner-path.md) | Sequenced study guide for CS and business students starting from the beginning |
+| [low-bandwidth-guide.md](learning-paths/low-bandwidth-guide.md) | How to use this library effectively with slow or intermittent internet access |
 
 ---
 
-## For Contributors
+## Adding Documentation
 
-Documentation contributions are welcome. If you want to add a guide 
-on research methods, exam preparation, a subject area not yet covered 
-open an issue first, then follow [CONTRIBUTING.md](../CONTRIBUTING.md).
+If you want to contribute a new guide or reference document:
+
+1. Check [open issues](../../../issues), someone may already be working on it
+2. Open a new issue describing what you plan to write before starting
+3. Place new files in the most relevant subfolder, or propose a new one
+4. Follow the formatting conventions in existing files (consistent headings,
+   relative internal links, metadata footer at the bottom)
+5. Update this README to include your new file in the contents table
+
+New subfolders inside `/docs` should be proposed via issue before creation.
+This keeps the documentation structure intentional rather than sprawling.

@@ -1,4 +1,4 @@
-\# BOSC Community Library - Resource Hub
+\# BOSC Community Library  (Resource Hub)
 
 
 
@@ -6,37 +6,35 @@ This page is your starting point. Everything in this library is listed here,
 
 organized by subject, with a brief description of what each resource covers
 
-and who it's best suited for.
-
-
-
-If you're new here: pick a subject, find your level, and start reading.
-
-If you're a contributor: check the \[gaps section](#coverage-gaps) at the bottom
-
-to see where help is needed most.
-
-
-
-\##  Not Sure Where to Start?
-
-
-
-If you're new to the library or overwhelmed by the options, start here instead:
-
-
-
-\- \*\*\[Beginner Learning Path](docs/learning-paths/beginner-path.md)\*\* 
-
-&#x20; tells you exactly what to read first, second, and third, by subject area
-
-\- \*\*\[Low-Bandwidth Study Guide](docs/learning-paths/low-bandwidth-guide.md)\*\* 
-
-&#x20; how to use this library when your internet is slow or unreliable
+and who it is best suited for.
 
 
 
 \---
+
+
+
+\## Not Sure Where to Start?
+
+
+
+If you're new to the library or unsure which resource fits your level,
+
+begin with one of these guides instead of jumping straight into subject content:
+
+
+
+\- \*\*\[Beginner Learning Path](docs/learning-paths/beginner-path.md)\*\* —
+
+&#x20; tells you what to read first, second, and third, by subject area, and why
+
+&#x20; that order matters
+
+\- \*\*\[Low-Bandwidth Study Guide](docs/learning-paths/low-bandwidth-guide.md)\*\* —
+
+&#x20; practical guidance for using this library when your internet is slow,
+
+&#x20; intermittent, or expensive
 
 
 
@@ -48,11 +46,23 @@ If you're new to the library or overwhelmed by the options, start here instead:
 
 
 
-\- \*\*Beginner\*\* — assumes little to no prior knowledge of the topic
+Each resource entry below includes:
 
-\- \*\*Intermediate\*\* — assumes you have covered the basics and want to go deeper
 
-\- \*\*All levels\*\* — structured so you can enter at your own level
+
+\- A direct link to the file
+
+\- The subject area and topic
+
+\- A brief description of what it covers
+
+\- A difficulty indicator:
+
+&#x20; - \*\*Beginner\*\* — no prior knowledge assumed
+
+&#x20; - \*\*Intermediate\*\* — assumes foundational understanding
+
+&#x20; - \*\*Beginner to Intermediate\*\* — accessible entry, meaningful depth
 
 
 
@@ -64,7 +74,7 @@ Click any resource title to open it directly.
 
 
 
-\## Computer Science
+\##  Computer Science
 
 
 
@@ -84,17 +94,11 @@ and computer science programmes.
 
 
 
-Covers arrays, linked lists, stacks, queues, trees, and graphs.
+Covers arrays, linked lists, stacks, queues, trees, and graphs with a
 
-Includes a recommended learning sequence and links to free visual tools
+recommended learning sequence and links to free visual tools that work on
 
-that work on low-bandwidth connections.
-
-
-
-Best for: students who find data structures abstract and want to see
-
-how they actually behave before memorizing theory.
+low-bandwidth connections. Start here before any other CS resource.
 
 
 
@@ -110,15 +114,9 @@ how they actually behave before memorizing theory.
 
 Covers processes, threads, memory management, file systems, scheduling,
 
-and deadlocks. References a free, downloadable university textbook
+and deadlocks. References a free downloadable university textbook suitable
 
-that works offline.
-
-
-
-Best for: students preparing for OS exams or trying to understand what
-
-their code is actually doing at the system level.
+for offline study.
 
 
 
@@ -134,15 +132,9 @@ their code is actually doing at the system level.
 
 Covers the OSI model, IP addressing, DNS, TCP vs UDP, HTTP/HTTPS, and ports.
 
-Practical focus explains not just what these things are but why they work
+Practical focus — explains not just what these things are, but why they work
 
 the way they do.
-
-
-
-Best for: web development students, anyone studying for networking
-
-certifications, or students who want to understand how the internet works.
 
 
 
@@ -154,7 +146,7 @@ certifications, or students who want to understand how the internet works.
 
 
 
-Practical resources for commerce, management, and entrepreneurship students
+Practical resources for commerce, management, and entrepreneurship students,
 
 with particular relevance to the East African business environment.
 
@@ -172,15 +164,9 @@ with particular relevance to the East African business environment.
 
 Covers problem-solution fit, business models, value propositions, and the
 
-difference between bootstrapping and seeking external funding. Includes
+difference between bootstrapping and external funding. Includes references
 
-references relevant to building ventures in low-capital environments.
-
-
-
-Best for: students considering starting something, or anyone taking an
-
-introductory entrepreneurship course.
+relevant to building ventures in low-capital environments.
 
 
 
@@ -196,15 +182,9 @@ introductory entrepreneurship course.
 
 Covers personal budgeting, income vs profit, basic bookkeeping, compound
 
-interest, and how to read a financial statement. Includes reference to
+interest, and how to read financial statements. Includes Uganda Revenue
 
-Uganda Revenue Authority guidance for small business compliance.
-
-
-
-Best for: students who want to manage money better, or anyone studying
-
-finance, accounting, or business management.
+Authority guidance for small business compliance.
 
 
 
@@ -216,9 +196,9 @@ finance, accounting, or business management.
 
 
 
-Skills that apply across every discipline. These are often the difference
+Skills that apply across every discipline, the kind of foundational
 
-between students who struggle and students who don't — regardless of subject.
+competencies that most courses assume but rarely teach directly.
 
 
 
@@ -234,13 +214,9 @@ between students who struggle and students who don't — regardless of subject.
 
 Covers essay structure, thesis statements, paragraphing, citation formats,
 
-and the tools that make academic writing easier. Practical, not theoretical.
+and practical tools. Written for students who were never explicitly taught
 
-
-
-Best for: any student writing an essay, report, or research paper
-
-especially those who were never explicitly taught how to structure arguments.
+how to structure and communicate arguments clearly.
 
 
 
@@ -254,17 +230,11 @@ especially those who were never explicitly taught how to structure arguments.
 
 
 
-Covers active recall, spaced repetition, the Pomodoro technique, the
+Covers active recall, spaced repetition, the Pomodoro technique, the Feynman
 
-Feynman method, and how to use past papers effectively. Every technique
+method, and past paper strategy. Every technique is grounded in learning
 
-listed is backed by learning science research.
-
-
-
-Best for: any student preparing for exams, or anyone who studies hard
-
-but feels like it isn't sticking.
+science research, not productivity folklore.
 
 
 
@@ -276,11 +246,11 @@ but feels like it isn't sticking.
 
 
 
-The following topics have been identified as missing from the library.
+The following topics are missing from the library. If you have knowledge in
 
-If you have knowledge in any of these areas, your contribution would be
+any of these areas, a contribution here would directly help students who are
 
-directly useful to students who are looking for these resources right now.
+actively looking for these resources.
 
 
 
@@ -302,9 +272,9 @@ directly useful to students who are looking for these resources right now.
 
 \- Business law and contracts
 
-\- Project management methods
+\- Project management methods (Agile, waterfall)
 
-\- Supply chain and operations
+\- Supply chain and operations basics
 
 
 
@@ -322,7 +292,7 @@ directly useful to students who are looking for these resources right now.
 
 To contribute, read \[CONTRIBUTING.md](CONTRIBUTING.md) and open an issue
 
-before starting work so we can avoid duplication.
+before starting work to avoid duplicating effort.
 
 
 
@@ -334,15 +304,15 @@ before starting work so we can avoid duplication.
 
 
 
-If you add a new resource file to the library, you must also update this hub.
+Every time a new resource file is added to the library, this hub must be
 
-Add a new entry under the correct subject heading using the same format:
+updated. Add a new entry under the correct subject heading using the format
 
-resource title as a link, level indicator, two-paragraph description.
+above: linked title, level indicator, two-sentence description.
 
 
 
-This file is reviewed and updated with every content PR.
+This file is reviewed as part of every content-related pull request.
 
 
 
@@ -350,5 +320,5 @@ This file is reviewed and updated with every content PR.
 
 
 
-\*Last updated: May 2025, BOSC Community\*
+\*Last updated: May 2025 — BOSC Community\*
 
