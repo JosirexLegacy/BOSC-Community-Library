@@ -166,6 +166,38 @@ of the words.
 
 
 
+A specific difference worth noting is the question of patent grants.
+
+The Apache License 2.0 includes an explicit patent grant clause contributors
+
+formally license any patents they hold that are relevant to the work, protecting
+
+users from patent claims by those contributors. The MIT License contains no
+
+such clause. For a software project where contributors might include patented
+
+algorithms or implementations, this distinction matters significantly. For the
+
+BOSC Community Library, which consists entirely of educational markdown content
+
+and curated resource links, no contributor holds relevant patents on the material
+
+being shared. The absence of a patent grant in MIT therefore creates no practical
+
+risk for this project. MIT's simpler approach is the appropriate choice precisely
+
+because the complexity Apache 2.0 adds around patents is complexity this project
+
+will never need. On the question of trademark protection: neither MIT nor Apache
+
+2.0 grants trademark rights. The BOSC Community Library name and any associated
+
+identity are not formally trademarked, but neither license permits anyone to use
+
+the project's name in a way that implies official endorsement.
+
+
+
 \---
 
 
@@ -186,7 +218,7 @@ This is intentional.
 
 
 
-The alternative — restricting commercial use — sounds protective but
+The alternative restricting commercial use sounds protective but
 
 in practice reduces the reach of the work. If a well-resourced company
 
