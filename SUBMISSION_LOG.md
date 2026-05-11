@@ -62,6 +62,10 @@ Each commit represents a deliberate, incremental change not a bulk upload.
 
 \- The full commit history is visible with messages, dates, and files changed
 
+
+
+!\[Commit History](screenshots/commit-history.png)
+
 \---
 
 
@@ -98,6 +102,10 @@ Five issues were opened and closed during development:
 
 
 
+!\[Closed Issues](screenshots/closed-issues.png)
+
+
+
 
 
 \---
@@ -120,13 +128,23 @@ Five pull requests were opened, reviewed, and merged one for each issue.
 
 
 
+!\[Merged PRs](screenshots/merged-prs.png)
+
+!\[PR Detail](screenshots/pr-detail.png)
+
+
+
+
+
+
+
 \---
 
 
 
 \### 4. Repository Structure Evidence
 
-
+!\[Repository Structure](screenshots/repo-structure.png)
 
 \---
 
@@ -145,6 +163,12 @@ GitHub generates an automatic contribution graph.
 \- Go to your GitHub profile page
 
 \- Scroll down to the contribution activity graph
+
+!\[Contribution Graph](screenshots/contribution-graph.png)
+
+
+
+
 
 
 
@@ -215,6 +239,4 @@ GitHub generates an automatic contribution graph.
 | Accessibility focus | ✅ Low-bandwidth guide, offline-capable content |
 
 | Government proposal | ✅ docs/government-adoption-proposal.md |
-
-
 
