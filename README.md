@@ -113,6 +113,15 @@ on a topic not yet covered read **[CONTRIBUTING.md](CONTRIBUTING.md)**.
 It walks through the full process from forking to submitting a pull request.
 If you've never contributed to open source before, this is a good place to start.
 
+## Strategic Documents
+
+| Document | Purpose |
+|----------|---------|
+| [Legal Analysis](LEGAL_ANALYSIS.md) | License rationale and IP analysis |
+| [Sustainability Strategy](SUSTAINABILITY.md) | Long-term funding and community model |
+| [Government Adoption Proposal](docs/government-adoption-proposal.md) | Formal proposal to Ministry of Education |
+| [Reflective Journal](REFLECTIVE_JOURNAL.md) | Governance reflection and project review |
+
 ---
 
 ## License
